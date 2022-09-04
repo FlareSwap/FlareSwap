@@ -1,13 +1,11 @@
-### Hi there 👋
 
-
-📰 Medium (Our Blog): https://flareswap.medium.com
-🐦 Twitter: https://twitter.com/Flare_Swap
-💬 Telegram Main Group: https://t.me/flareswap
-🖥 GitHub: https://github.com/FlareSwap
-🤳 Instagram: https://www.instagram.com/flareswap/
-🤩 Reddit: https://www.reddit.com/r/FlareSwap/
-👾 Linktree: https://linktr.ee/flareswap
+📰 Medium (Our Blog): https://flareswap.medium.com <br />
+🐦 Twitter: https://twitter.com/Flare_Swap <br />
+💬 Telegram Main Group: https://t.me/flareswap <br />
+🖥 GitHub: https://github.com/FlareSwap <br />
+🤳 Instagram: https://www.instagram.com/flareswap/ <br />
+🤩 Reddit: https://www.reddit.com/r/FlareSwap/ <br />
+👾 Linktree: https://linktr.ee/flareswap <br />
 
 
 <!--
