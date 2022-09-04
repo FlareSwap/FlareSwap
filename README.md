@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+📰 Medium (Our Blog): https://flareswap.medium.com
+🐦 Twitter: https://twitter.com/Flare_Swap
+💬 Telegram Main Group: https://t.me/flareswap
+🖥 GitHub: https://github.com/FlareSwap
+🤳 Instagram: https://www.instagram.com/flareswap/
+🤩 Reddit: https://www.reddit.com/r/FlareSwap/
+👾 Linktree: https://linktr.ee/flareswap
+
+
 <!--
 **FlareSwap/FlareSwap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
